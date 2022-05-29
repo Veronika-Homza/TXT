@@ -1,0 +1,6 @@
+1) First name                Veronika
+2) Last name                 Homza
+3) Patronymic                Anatolievna
+4) Age                       25                      
+5) Number of pets            1     
+6) Future desired salary     500$         
