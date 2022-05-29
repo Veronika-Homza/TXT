@@ -1,0 +1,26 @@
+I. Soft skills:
+
+-attentiveness
+-perseverance
+-sociability
+-responsibility
+-learnability
+
+II. Hard skills:
+
+1) Web testing knowledge:
+
+-The Linux command line
+-Bash scripting basics
+-API testing with Postman
+-JS basics
+-SQL basics
+-Charles and Fiddler
+-Load testing in Jmeter
+-Database Postgres
+-Database Redis
+
+2) Mobile testing knowledge:
+-Android Studio
+-XCode
+-Charles and Fiddler 
